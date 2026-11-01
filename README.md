@@ -1,4 +1,7 @@
 # GTAlike
+
+**JDK SHOULD BE INSTALLED ON YOUR PC**
+
 This is a very rudimentary form of GTA. It's called Voxcity. It basically runs on a low resolution raycasting engine. And the mobs, cars and buildings are all cuboidal. The npcs have Minecraft type skin. The weapons sprites are like doom.
 
 The VoxCity_v1.0 is actually the first version.
